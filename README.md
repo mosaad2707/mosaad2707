@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Working on: Exploring different domains in Computer Science<br>🤝 Looking for help with: Resolving segmentation faults.<br>🌱 Currently learning about the potential of AI and ML<br><br>
+🔭 Currently Reading about: Artificial Intelligence and its domains <br>🤝 Looking for help with: Optimising and documenting software and hardware .<br>🌱 Currently learning about computer security<br><br>
 
 
 ## 🌐 Socials:
